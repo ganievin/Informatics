@@ -18,6 +18,7 @@ void push(st_elem **stack, double value) {
     else {
         printf("push(): not enough memory\n");
     }
+    free(tmp);
 }
 
 double pop(st_elem **stack) {
