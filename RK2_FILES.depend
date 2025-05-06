@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1746521484 source:c:\users\redonnukes\desktop\По учебе\Информатика\Программирование на c\rk2_files\task1.c
+	<stdio.h>
+	<stdlib.h>
+
+1746520398 source:c:\users\redonnukes\desktop\По учебе\Информатика\Программирование на c\rk2_files\main.c
+	<stdio.h>
+	<stdlib.h>
+
